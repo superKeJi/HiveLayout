@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sport_item_page_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none" >
+
+        <!-- layout_marginTop要留出title的距离 -->
+
+        <com.example.hivelayout.view.SixShapeView
+            android:id="@+id/main_page_six_shape_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white" >
+        </com.example.hivelayout.view.SixShapeView>
+    </ScrollView>
+
+</LinearLayout>

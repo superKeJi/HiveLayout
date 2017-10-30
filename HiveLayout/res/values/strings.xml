@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HiveLayout</string>
+    <string name="hello_world">Hello world!</string>
+<string name="sport_item_page_not_well">功能正在更新，敬请期待！</string>
+</resources>

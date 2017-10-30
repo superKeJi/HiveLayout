@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="deep_gray">#a4a3a3</color>
+    <color name="light_gray">#cccccc</color>
+    <color name="light_yellow">#ffab50</color>
+    <color name="white">#ffffff</color>
+    <color name="light_gray_0">#979797</color>
+    <color name="black">#000000</color>
+    <color name="circle_view_color">#ff8e1d</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="circle_blue">#2c75dc</color>
+    <color name="red">#e9254d</color>
+    <color name="sport_detail_page_country_line_yellow">#ffd9b8</color>
+	<color name="my_score_page_text_bg">#fff1e6</color>
+	<color name="pingbanzhicheng_page_in_bg">#4a6aa3</color>
+	<color name="orange">#e47614</color>
+	<color name="sport_rank_blue">#2b77d6</color>
+	<color name="country_gree_red">#e74c3c</color>
+	<color name="country_gree_yellow">#fe8c27</color>
+	<color name="country_gree_blue">#4e90d3</color>
+	<color name="country_gree_green">#1aac4f</color>
+</resources>
